@@ -2,7 +2,7 @@
 
 ## About
 
-This is a golang version of [VSYS_HEkey_java](https://github.com/Brochao/VSYS_HDkey_java), all processes are exactly the same.
+This is a golang version of [VSYS_HDkey_java](https://github.com/Brochao/VSYS_HDkey_java), all processes are exactly the same.
 
 
 ## Deferrence between go version and java version
