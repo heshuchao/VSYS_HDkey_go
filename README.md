@@ -5,7 +5,7 @@
 This is a golang version of [VSYS_HDkey_java](https://github.com/Brochao/VSYS_HDkey_java), all processes are exactly the same.
 
 
-## Deferrence between go version and java version
+## Difference between go version and java version
 
 
 ### 1. Reference library
