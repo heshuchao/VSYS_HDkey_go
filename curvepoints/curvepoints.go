@@ -3,7 +3,7 @@ package curvepoints
 import (
 	"errors"
 
-	"github.com/VSYS_HDkey_go/edwards25519"
+	"github.com/Brochao/VSYS_HDkey_go/edwards25519"
 )
 
 func cryptoVerify32(x, y [32]byte) uint32 {
