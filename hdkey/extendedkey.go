@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/VSYS_HDkey_go/curvepoints"
+	"github.com/Brochao/VSYS_HDkey_go/curvepoints"
 )
 
 const (
